@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_6</string>
+    <string name="turkeyPimpButton">Pimp that Turkey!!</string>
+    <string name="turkeyUnPimpButton">Woah, lets back it up</string>
+    <string name="turkeyNamePlaceholder">Enter the Turkey\'s Name</string>
+    <string name="turkeyImageDescription">An image of a turkey</string>
+    <string name="pimpedTurkeyText" formatted="false">Woah now %1$s is pimped out!</string>
+</resources>

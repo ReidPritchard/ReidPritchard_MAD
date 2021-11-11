@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">lab_07</string>
+    <string name="howCoolTitle">Now how cool are you?!</string>
+    <string name="coolSwitch">I\'m so cool</string>
+    <string name="Cool">Cool</string>
+    <string name="Cooool">Cooool</string>
+    <string name="Cooooool">Cooooool</string>
+    <string name="CrankUpTheCool">Crank up the cool!!</string>
+    <string name="coolButton">Check Your Cool!!</string>
+
+    <string name="coolOptionOne">Musician?</string>
+    <string name="coolOptionTwo">Artist?</string>
+    <string name="coolOptionThree">Resume worthy cool?</string>
+    <string name="spinnerCool">What\'s the coolest one?</string>
+
+    <string-array name="coolestPick">
+        <item>Skateboards</item>
+        <item>Backwards Hats</item>
+        <item>Road Biking</item>
+        <item>Ice</item>
+        <item>Chess</item>
+        <item>Winter in Game of Thrones</item>
+        <item>Regularly Scheduled Therapist Sessions</item>
+        <item>Full Time Employment</item>
+    </string-array>
+</resources>

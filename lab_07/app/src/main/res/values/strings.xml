@@ -23,4 +23,14 @@
         <item>Regularly Scheduled Therapist Sessions</item>
         <item>Full Time Employment</item>
     </string-array>
+    <string-array name="coolestPickValues">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>100</item>
+        <item>9999</item>
+        <item>25</item>
+        <item>9999</item>
+        <item>99999</item>
+    </string-array>
 </resources>

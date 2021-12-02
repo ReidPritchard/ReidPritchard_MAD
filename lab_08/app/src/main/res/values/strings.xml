@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab_08</string>
+    <string name="coffeeTitle">Want Coffee?</string>
+    <string name="wantCoffeeButtonYes">Yes Please</string>
+    <string name="wantCoffeeButtonNo">No Thanks</string>
+    <string name="localSwitch">Local?</string>
+    <string name="findCoffeeButton">Guide me!</string>
+    <string name="title_activity_coffee_detail">CoffeeDetail</string>
+    <string name="sweet">Sweet!</string>
+    <string name="Back">Ew, take me back!</string>
+</resources>
